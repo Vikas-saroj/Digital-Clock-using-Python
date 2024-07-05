@@ -77,5 +77,5 @@ Feel free to reach out if you have any questions or suggestions!
 
 
   ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://img.shields.io/github/license/Vikas-saroj/Digital-Clock-using-Python) file for details.
+This project is licensed under the MIT License - see the ![MIT LICENSE](https://img.shields.io/github/license/Vikas-saroj/Digital-Clock-using-Python) file for details.
 
