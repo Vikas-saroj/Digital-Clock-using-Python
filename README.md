@@ -14,7 +14,7 @@ Welcome to the Digital Clock project! This is a Python-based digital clock appli
 
 ## 📂 File Structure
 
-your-repository-name/\
+Digital-Clock-using-Python/\
 ├── Screenshot/\
 │ └── digital_clock_output.png\
 ├── image/\
