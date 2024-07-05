@@ -73,9 +73,9 @@ Feel free to reach out if you have any questions or suggestions!
 
 ⭐️ Don't forget to give this project a star if you found it helpful!
 
-![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Digital-Clock-using-Python?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Digital-Clock-using-Python)
 
 
   ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://img.shields.io/github/license/Vikas-saroj/Digital-Clock-using-Python) file for details.
 
