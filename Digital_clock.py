@@ -50,7 +50,7 @@ if __name__ == "__main__":
     # configuring the background color to #2C3C3F  
     gui_root.config(bg="#2C3C3F")  
     # setting the icon for the window  
-    gui_root.iconbitmap("clock_img.ico")  
+    gui_root.iconbitmap("image/clock_img.ico")  
   
     # creating some frames to provide structure to other widgets  
     header_frame = Frame(gui_root, bg="#2C3C3F")  
