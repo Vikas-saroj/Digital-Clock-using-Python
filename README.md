@@ -10,7 +10,7 @@ Welcome to the Digital Clock project! This is a Python-based digital clock appli
 - 📆 Displays the current date in the "DD Month, YYYY" format
 ## 🖼️  Screenshot
 
-![Digital Clock](image/clock_img.png)
+![Digital Clock](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/Screenshot/digital_clock_output.png)
 
 ## 📂 File Structure
 
