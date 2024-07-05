@@ -49,13 +49,11 @@ Digital-Clock-using-Python/\
 
 
 
-  ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/LICENSE) file for details.
-
 ## 📢 Acknowledgements
 
 - This project uses the Tkinter library for the graphical user interface.
 - Inspired by various Tkinter clock examples available online.
+
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -73,6 +71,11 @@ Feel free to reach out if you have any questions or suggestions!
 ---
 
 
-Don't forget to give this project a star if you found it helpful!
+⭐️ Don't forget to give this project a star if you found it helpful!
 
 ![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Digital-Clock-using-Python?style=social)
+
+
+  ## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/LICENSE) file for details.
+
