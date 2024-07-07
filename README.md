@@ -68,15 +68,14 @@ Contributions are what make the open-source community such an amazing place to b
 
 Feel free to reach out if you have any questions or suggestions!
 
+## 📜 License
+This project is licensed under the MIT License - see the [![MIT License](https://img.shields.io/github/license/Vikas-saroj/Digital-Clock-using-Python
+)](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/LICENSE) file for details.
+
 ---
 
 
 ⭐️ Don't forget to give this project a star if you found it helpful!
 
 ![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/Digital-Clock-using-Python)
-
-
-  ## 📜 License
-This project is licensed under the MIT License - see the [![MIT License](https://img.shields.io/github/license/Vikas-saroj/Digital-Clock-using-Python
-)](https://github.com/Vikas-saroj/Digital-Clock-using-Python/blob/main/LICENSE) file for details.
 
